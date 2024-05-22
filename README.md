@@ -6,7 +6,9 @@ The visualization offers a comprehensive look at how global temperatures have ch
 Key Features:
 
 Trend Analysis: Visual representation of the changes in average global temperatures across various time periods.
+
 Interactive Visuals: Users can interact with the dashboard to focus on specific time frames, regions, or other relevant parameters.
+
 Data-Driven Insights: Facilitates understanding of long-term temperature trends, aiding in climate studies and policy-making.
 
 Access the Visualization:
